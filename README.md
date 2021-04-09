@@ -3,7 +3,7 @@
 * David
 * Farid
 * Leonardo Aucar
-* Luis
+* Luiz
 * Rodrigo Montenegro
 ## Tema
 > Previsão se um cavalo pode sobreviver baseado nas métricas informadas
